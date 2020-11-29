@@ -1,2 +1,0 @@
-# noticiass
-proyecto final
